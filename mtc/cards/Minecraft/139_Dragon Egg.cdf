@@ -1,6 +1,6 @@
 EditionID=minecraft
 CardID=card_dragon_egg
-RarityLevel=artifact
+RarityLevel=anc
 
 Name=Dragon Egg
 Category=World Item

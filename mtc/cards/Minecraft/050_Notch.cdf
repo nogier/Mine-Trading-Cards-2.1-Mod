@@ -1,6 +1,6 @@
 EditionID=minecraft
 CardID=card_notch
-RarityLevel=artifact
+RarityLevel=leg
 
 Name=Notch
 Category=Minecraft

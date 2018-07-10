@@ -1,6 +1,6 @@
 EditionID=minecraft
 CardID=card_jeb
-RarityLevel=artifact
+RarityLevel=anc
 
 Name=Jeb
 Category=Minecraft
